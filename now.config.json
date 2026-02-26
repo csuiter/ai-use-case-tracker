@@ -1,0 +1,7 @@
+{
+  "name": "ai-use-case-tracker",
+  "scope": "x_ai_uc_tracker",
+  "version": "1.0.0",
+  "description": "Track AI use cases, their status, business value, and outcomes",
+  "trustedModules": []
+}

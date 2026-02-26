@@ -1,0 +1,14 @@
+{
+  "name": "ai-use-case-tracker",
+  "version": "1.0.0",
+  "description": "ServiceNow AI Use Case Tracker - SDK v4.3.0",
+  "scripts": {
+    "build": "snc build",
+    "deploy:dev": "snc deploy --instance $SN_DEV_INSTANCE_URL",
+    "deploy:prod": "snc deploy --instance $SN_PROD_INSTANCE_URL"
+  },
+  "devDependencies": {
+    "@servicenow/sdk": "4.3.0",
+    "typescript": "^5.3.0"
+  }
+}
